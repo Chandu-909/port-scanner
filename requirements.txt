@@ -1,0 +1,7 @@
+# Port Scanner Dependencies
+# Python 3.8+
+
+# No external dependencies required!
+# The scanner uses only Python standard library.
+# Optional: For enhanced output
+rich==13.7.0
